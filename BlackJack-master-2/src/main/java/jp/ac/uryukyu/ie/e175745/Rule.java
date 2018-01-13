@@ -22,7 +22,7 @@ public class Rule{
         }
     }
     public int Total(int card){
-            int total;
+            int total=0;
             total+= card;
             return total;
     }
